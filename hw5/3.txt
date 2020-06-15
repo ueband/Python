@@ -1,0 +1,5 @@
+Ivanov 2000
+Petrov 10000
+Sidorov 21000
+Lukashenko 25000
+Petrenko 5000
